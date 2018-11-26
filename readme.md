@@ -1,3 +1,6 @@
+Please refer to this wiki page for documentation <br>
+https://github.com/r2rajan/Linux-Security-benchmarks/wiki<br>
+
 **Pre-requisites**
 1. Install openscap 
 
